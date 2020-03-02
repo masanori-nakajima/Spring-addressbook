@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration>
+
+<bean id="realDataSource" class="org.apache.commons.dbcp2.BasicDataSource" destroy-method="close">
+	<property name="driverClassname" value="${datasource.driver-class-name}" />
+	<property name="url" value="${datasource.url}" />
+	<property name="username" value="${datasource.username}" />
+	<property name="password" value="${datasource.password}" />
+	<property name="defaultAutoCommit" value="false" />
+</bean> 
+
+<!--<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource" destroy-method="close">
+	<property name="driverClassName" value="${datasource.driver-class-name:org.postgresql.Driver}" />
+	<property name="url" value="${datasource.url:jdbc:postgresql://localhost:5432/demo}" />
+	<property name="username" value="${datasource.username:demo}" />
+	<property name="password" value="${datasource.password:pass}" />
+	<poperty name="defaultAutoCommit" value="false" />
+</bean> -->
