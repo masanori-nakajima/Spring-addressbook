@@ -1,0 +1,5 @@
+example\app\EchoForm.class
+example\app\EchoController.class
+example\app\WelcomeController.class
+example\config\Appconfig.class
+example\config\WebMvcConfig.class
