@@ -1,0 +1,14 @@
+package example.config;
+
+import org.springframework.contextannotation.ComponentScan;
+import org.springframework.contextannotation.Configuration;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
+
+@Configuration
+@EnableWebMvc
+@ComponentScan("example.app")
+public class WebMvcConfig extends WebMvcConfigurerAdapter{
+	
+	
+}

@@ -1,0 +1,479 @@
+2020-01-28 14:28:23,232 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml
+2020-01-28 14:28:24,655 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 14:28:25,842 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-28 14:28:25,842 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-28 14:28:25,842 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-28 14:28:28,853 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2020-01-28 14:28:29,962 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-28 14:28:29,978 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-28 14:28:29,978 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-28 14:28:29,978 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-28 14:37:20,220 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-28 14:37:20,220 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-28 14:37:20,235 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-28 14:37:20,235 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-28 14:38:59,805 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 14:39:00,535 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-28 14:39:00,536 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-28 14:39:19,411 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 14:39:20,147 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 14:39:21,074 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-28 14:39:21,074 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-28 14:39:21,074 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-28 14:39:23,007 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for firstapp
+2020-01-28 14:39:23,109 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-01-28 14:39:23,187 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-28 14:39:23,187 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-28 15:00:14,644 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 15:00:15,320 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 15:00:16,031 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-28 15:00:16,031 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-28 15:00:16,032 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-28 15:00:16,117 [Worker-7] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure firstapp
+org.eclipse.m2e.wtp.MarkedException: Unable to configure firstapp
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: 1 つ以上の制約が満たされていませんでした。
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2020-01-28 15:00:16,328 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for firstapp
+2020-01-28 15:00:16,337 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-01-28 15:00:16,502 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-28 15:00:16,502 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-28 15:33:12,575 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 15:33:13,491 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 15:33:14,634 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-28 15:33:14,634 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-28 15:33:14,635 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-28 15:33:14,749 [Worker-5] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure firstapp
+org.eclipse.m2e.wtp.MarkedException: Unable to configure firstapp
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: 1 つ以上の制約が満たされていませんでした。
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2020-01-28 15:33:15,122 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for firstapp
+2020-01-28 15:33:15,146 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-01-28 15:33:15,324 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-28 15:33:15,326 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-28 16:30:56,715 [Worker-38] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/mars/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:165) [org.eclipse.recommenders.models.rcp_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/mars/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2020-01-28 17:20:16,130 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 17:20:17,842 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 17:20:19,596 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-28 17:20:19,596 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-28 17:20:19,596 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-28 17:20:20,012 [Worker-55] ERROR o.e.m.w.jsf.internal.utils.JSFUtils - An error occured trying to find to javax.faces.webapp.FacesServlet :
+org.xml.sax.SAXParseException: "[xX][mM][lL]"と一致する処理命令ターゲットは許可されていません。
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(Unknown Source) ~[na:1.8.0_241]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(Unknown Source) ~[na:1.8.0_241]
+	at javax.xml.parsers.DocumentBuilder.parse(Unknown Source) ~[na:1.8.0_241]
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:139) [org.eclipse.m2e.wtp.jsf_1.2.1.20150819-2220.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.utils.JSFUtils.hasFacesServlet(JSFUtils.java:115) [org.eclipse.m2e.wtp.jsf_1.2.1.20150819-2220.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.hasFacesServletInWebXml(WebXmlJSFFacetDetector.java:80) [org.eclipse.m2e.wtp.jsf_1.2.1.20150819-2220.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.WebXmlJSFFacetDetector.findFacetVersion(WebXmlJSFFacetDetector.java:55) [org.eclipse.m2e.wtp.jsf_1.2.1.20150819-2220.jar:na]
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:91) [org.eclipse.m2e.wtp_1.2.1.20150819-2220.jar:na]
+	at org.eclipse.m2e.wtp.facets.FacetDetectorManager.findFacetVersion(FacetDetectorManager.java:61) [org.eclipse.m2e.wtp_1.2.1.20150819-2220.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configureInternal(JSFProjectConfigurator.java:93) [org.eclipse.m2e.wtp.jsf_1.2.1.20150819-2220.jar:na]
+	at org.eclipse.m2e.wtp.jsf.internal.configurators.JSFProjectConfigurator.configure(JSFProjectConfigurator.java:68) [org.eclipse.m2e.wtp.jsf_1.2.1.20150819-2220.jar:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2020-01-28 17:20:20,160 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for firstapp
+2020-01-28 17:20:20,171 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-01-28 17:20:20,482 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-28 17:20:20,482 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-28 17:21:22,126 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 17:21:23,387 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 17:21:24,878 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-28 17:21:24,878 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-28 17:21:24,878 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-28 17:21:24,974 [Worker-55] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure firstapp
+org.eclipse.m2e.wtp.MarkedException: Unable to configure firstapp
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: 1 つ以上の制約が満たされていませんでした。
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2020-01-28 17:21:25,249 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for firstapp
+2020-01-28 17:21:25,281 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-01-28 17:21:25,469 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-28 17:21:25,469 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-28 17:40:16,551 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 17:40:17,836 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 17:40:19,424 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-28 17:40:19,424 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-28 17:40:19,424 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-28 17:40:19,502 [Worker-54] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure firstapp
+org.eclipse.m2e.wtp.MarkedException: Unable to configure firstapp
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: 1 つ以上の制約が満たされていませんでした。
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2020-01-28 17:40:19,705 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for firstapp
+2020-01-28 17:40:19,721 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-01-28 17:40:19,901 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-28 17:40:19,901 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-28 17:41:13,506 [Worker-65] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 17:41:14,762 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-28 17:41:16,134 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-28 17:41:16,134 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-28 17:41:16,134 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-28 17:41:16,196 [Worker-65] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure firstapp
+org.eclipse.m2e.wtp.MarkedException: Unable to configure firstapp
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: 1 つ以上の制約が満たされていませんでした。
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2020-01-28 17:41:16,378 [Worker-65] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for firstapp
+2020-01-28 17:41:16,394 [Worker-65] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-01-28 17:41:16,581 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-28 17:41:16,581 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-28 17:44:04,688 [Worker-64] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 17:44:04,720 [Worker-64] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-28 17:53:54,386 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-28 17:53:54,417 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 13:18:14,454 [Worker-47] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/mars/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:192) [org.eclipse.recommenders.models_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:174) [org.eclipse.recommenders.models_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:165) [org.eclipse.recommenders.models.rcp_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.3.0.v20160216-1255.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/mars/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249) ~[org.eclipse.aether.connector.basic_1.0.1.v20141111.jar:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
+	... 8 common frames omitted
+2020-01-29 14:02:42,857 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 14:02:42,889 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 14:02:56,937 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 14:02:56,965 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 14:09:08,657 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 14:09:08,678 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 15:40:09,031 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom のダウンロード中
+2020-01-29 15:40:09,610 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom
+2020-01-29 15:40:09,805 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom のダウンロード中
+2020-01-29 15:40:10,112 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2020-01-29 15:40:10,421 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar のダウンロード中
+2020-01-29 15:40:12,057 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar
+2020-01-29 15:40:29,850 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 15:40:29,867 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 15:43:16,875 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 15:43:16,892 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 15:53:22,519 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 15:53:22,535 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 16:02:01,994 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 16:02:02,005 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 16:02:49,352 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 16:02:49,367 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 16:13:50,030 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 16:13:50,043 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 16:20:01,133 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 16:20:01,148 [Worker-50] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 16:28:28,381 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 16:28:28,392 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 16:32:51,048 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 16:32:51,059 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-01-29 16:42:01,052 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\sample\pom.xml
+2020-01-29 16:42:03,387 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: sample:sample:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\sample\pom.xml.
+2020-01-29 16:42:05,578 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample/src/main/java
+2020-01-29 16:42:05,578 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sample/src/main/resources
+2020-01-29 16:42:05,578 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample/src/test/java
+2020-01-29 16:42:08,328 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2020-01-29 16:42:08,876 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:42:08,888 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 16:42:08,896 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:42:08,896 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\sample\src\test\resources
+2020-01-29 16:57:10,681 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml
+2020-01-29 16:57:12,128 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-29 16:57:13,612 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-29 16:57:13,612 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-29 16:57:13,612 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-29 16:57:15,703 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2020-01-29 16:57:16,028 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:57:16,032 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 16:57:16,036 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:57:16,036 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 16:59:10,430 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:59:10,434 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 16:59:10,438 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:59:10,438 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 16:59:17,081 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-29 16:59:18,672 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:59:18,676 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 16:59:18,680 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:59:18,684 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 16:59:18,694 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-29 16:59:18,698 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-29 16:59:18,710 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:59:19,016 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:59:19,020 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 16:59:19,020 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 16:59:19,024 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:00:13,320 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:00:13,328 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-29 17:00:13,344 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:00:13,348 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:00:28,748 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:00:28,748 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 17:00:28,752 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:00:28,756 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:01:24,455 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:01:24,459 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 17:01:24,459 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:01:24,463 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:05:13,719 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:05:13,723 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-29 17:05:13,733 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:05:13,737 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:05:41,290 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:05:41,294 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-29 17:05:41,306 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:05:41,306 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:05:56,312 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:05:56,312 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-29 17:05:56,320 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:05:56,324 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:06:31,535 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:06:31,539 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-29 17:06:31,551 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:06:31,551 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:06:38,556 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:06:38,560 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-29 17:06:38,564 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:06:38,568 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:11:59,784 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:11:59,784 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 17:11:59,788 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:11:59,788 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:12:09,822 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:12:09,826 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-29 17:12:09,829 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:12:09,829 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:14:10,880 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:14:10,884 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-29 17:14:10,892 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:14:10,892 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:23:05,803 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-01-29 17:23:07,101 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-29 17:23:08,411 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/main/java
+2020-01-29 17:23:08,411 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstapp/src/main/resources
+2020-01-29 17:23:08,415 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstapp/src/test/java
+2020-01-29 17:23:08,599 [Worker-74] ERROR o.e.m2e.wtp.WTPProjectConfigurator - Unable to configure firstapp
+org.eclipse.m2e.wtp.MarkedException: Unable to configure firstapp
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:98) ~[na:na]
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:71) ~[na:na]
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:120) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:501) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$3.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:494) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:432) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:345) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager$2.call(ProjectConfigurationManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1351) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:342) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:77) [org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.eclipse.core.runtime.CoreException: 1 つ以上の制約が満たされていませんでした。
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117) ~[na:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324) ~[na:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241) ~[org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339) ~[na:na]
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:133) ~[na:na]
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:94) ~[na:na]
+	... 18 common frames omitted
+2020-01-29 17:23:08,835 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for firstapp
+2020-01-29 17:23:08,851 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-01-29 17:23:09,084 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:23:09,088 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-29 17:23:09,112 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-29 17:23:09,112 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-29 17:23:09,116 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of firstapp
+2020-01-29 17:23:09,116 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for firstapp
+2020-01-29 17:23:09,124 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-31 11:36:33,169 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-31 11:36:34,038 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-31 11:36:39,228 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-31 11:36:39,274 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-31 11:36:39,290 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-31 11:36:39,306 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-31 11:36:42,606 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-31 11:36:42,618 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-31 11:36:44,793 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-31 11:36:44,793 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: example:firstapp:0.0.1-SNAPSHOT @ C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\pom.xml.
+2020-01-31 11:36:44,793 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
+2020-01-31 11:36:47,808 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-31 11:36:47,808 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-31 11:36:47,808 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS932 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-31 11:36:47,808 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\gs\Documents\workspace-sts-3.7.3.RELEASE\firstapp\src\test\resources
