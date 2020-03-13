@@ -10,18 +10,17 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import com.example.demo.UserRequestDto.UserRequest;
-import com.example.demo.controller.UserService.UserService;
-import com.example.demo.Repository.UserRepository;
 import com.example.demo.entity.User;
+import com.example.demo.service.UserService;
 
 @Controller
 public class UserController {
 	@Autowired
-	UserRepository userRepository;
+	UserService userService;
 	
 	@RequestMapping(value="/user", method= RequestMethod.GET)
 	public String displayList (Model model) {
-			List<User> userlist = userRepository.findAll();
+			List<User> userlist = userService.searchAll();
 			model.addAttribute("user", userlist);
 			return "user";
 	}
@@ -33,7 +32,7 @@ public class UserController {
 	}
 	@RequestMapping(value="/user/create", method=RequestMethod.POST)
 	public String create(@ModelAttribute UserRequest userRequest, Model model) {
-				UserService.create(userRequest);
+				userService.create(userRequest);
 				return "redirect:/user/list";
 	}
 }
