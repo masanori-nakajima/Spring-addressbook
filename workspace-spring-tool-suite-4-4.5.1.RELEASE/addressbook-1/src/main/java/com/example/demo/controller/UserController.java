@@ -21,7 +21,7 @@ public class UserController {
 	@RequestMapping(value="/user", method= RequestMethod.GET)
 	public String displayList (Model model) {
 			List<User> userlist = userService.searchAll();
-			model.addAttribute("user", userlist);
+			model.addAttribute("userlist", userlist);
 			return "user";
 	}
 
@@ -32,7 +32,7 @@ public class UserController {
 	}
 	@RequestMapping(value="/user/create", method=RequestMethod.POST)
 	public String create(@ModelAttribute UserRequest userRequest, Model model) {
-				userService.create(userRequest);
-				return "redirect:/user/list";
+		userService.create(userRequest);
+		return "redirect:/user/list";
 	}
 }
