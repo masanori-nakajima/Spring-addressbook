@@ -10,10 +10,13 @@ import javax.persistence.GenerationType;
 
 import lombok.Data;
 
+@SuppressWarnings("serial")
 @Entity
 @Data
 @Table(name = "addressbook")
 public class User implements Serializable {
+	
+
 	@Id
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     @Column(name= "Id")

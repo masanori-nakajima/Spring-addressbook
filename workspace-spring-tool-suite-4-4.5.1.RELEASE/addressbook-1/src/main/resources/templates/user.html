@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
   <head>
     <title>ユーザー情報一覧</title>
@@ -17,7 +17,7 @@
 			</tr>
 		</thead>
 		<tbody>
-		    <tr th:each="User : ${userlist}" th:object="${User}">
+		    <tr th:each="user : ${userlist}" th:object="${user}">
 		        <td class="center" th:text="*{id}"></td>
 		        <td th:text="*{name}"></td>
 		        <td th:text="*{address}"></td>
